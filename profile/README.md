@@ -1,12 +1,25 @@
-## Hi there 👋
+<p align="center">
+  <a href="https://www.xishuhq.com">
+    <img src="profile/image/logo.svg" alt="ketaops logo" width="240" height="140">
+  </a>
+</p>
 
-<!--
+<p align="center">
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+
+</p>
+<p align="center">
+  KetaOps is an observability platform, with the first line of code written in 2016. <br/>
+  In May 2022, Shenzhen Xishu Technology Co. Ltd. was established. <br/>
+  We adhere to the design concept of One Agent, One Database, One Platform. <br/>
+  Simple, easy to use, and reliable.
+</p>
+
+<p align="center">
+  <a href="https://www.xishuhq.com/">Learn More 📚</a>
+  ·
+  <a href="https://github.com/ketaops/ketaops">Get Started 🔭</a>
+  ·
+  <a href="">Try the demo 🎓 </a>
+</p>
