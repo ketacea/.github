@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.xishuhq.com">
-    <img src="profile/image/logo - 黑K.png" alt="ketacea logo" width="240" height="140">
+    <img src="profile/image/logo - 蓝K 240 140.png" alt="ketacea logo" width="240" height="140">
   </a>
 </p>
 
