@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.xishuhq.com">
-    <img src="profile/image/logo.svg" alt="ketaops logo" width="240" height="140">
+    <img src="profile/image/logo - 黑K.png" alt="ketacea logo" width="240" height="140">
   </a>
 </p>
 
@@ -10,7 +10,7 @@
 
 </p>
 <p align="center">
-  KetaOps is an observability platform, with the first line of code written in 2016. <br/>
+  Ketacea is an observability platform, with the first line of code written in 2016. <br/>
   In May 2022, Shenzhen Xishu Technology Co. Ltd. was established. <br/>
   We adhere to the design concept of One Agent, One Database, One Platform. <br/>
   Simple, easy to use, and reliable.
