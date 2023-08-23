@@ -19,7 +19,7 @@
 <p align="center">
   <a href="https://www.xishuhq.com/">Learn More 📚</a>
   ·
-  <a href="https://github.com/ketaops/ketaops">Get Started 🔭</a>
+  <a href="https://github.com/ketacea/ketacea">Get Started 🔭</a>
   ·
   <a href="">Try the demo 🎓 </a>
 </p>
